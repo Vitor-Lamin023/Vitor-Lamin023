@@ -13,7 +13,7 @@
 
 </div>
 
-  ### Linguagens
+  ### Conhecimentos
    ##   
    
 <div style="display inline-block;">

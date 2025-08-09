@@ -3,7 +3,7 @@
 - 🧳 Atualmente estou na área de front-end.
 - 🎂 Idade: 17 anos.
 - 🏙 Moro na cidade de São Paulo.
-- 🎓 Venho estudando: PHP, Ionic e React.
+- 🎓 Venho estudando: PHP, Ionic e React, React Native e python
 - Caso queira entrar em contato: vitorlamin023@gmail.com 🤗
 
 <div>

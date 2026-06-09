@@ -1,9 +1,9 @@
 ## Olá me chamo Vitor Lamin!
 
-- 🧳 Atualmente estou na área de front-end.
-- 🎂 Idade: 17 anos.
-- 🏙 Moro na cidade de São Paulo.
-- 🎓 Venho estudando: PHP, Ionic, React, React Native e python.
+- Idade: 18 anos.
+- Moro na cidade de São Paulo.
+- Venho estudando: PHP, Kotlin, React, React Native.
+- Planejo um foco maior em desenvolvimento Mobile
 - Caso queira entrar em contato: vitorlamin023@gmail.com 🤗
 
 <div>
